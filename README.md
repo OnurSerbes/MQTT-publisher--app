@@ -1,9 +1,9 @@
 # MQTT-publisher-app
+MQTT is a messaging and connectivity protocol to exchange information from a remote location for Internet of Things (IoT) and machine-to-machine (M2M) technologies.
+
 This app is created for publishing message to the broker by MQTT protocol.
 
 Libraries: 
-
-You can find the documentation link down below
 
 Paho Android Service - MQTT Client Library Encyclopedia
 
