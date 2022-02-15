@@ -11,6 +11,8 @@ https://www.hivemq.com/blog/mqtt-client-library-enyclopedia-paho-android-service
 
 https://www.eclipse.org/paho/index.php?page=clients/android/index.php
 
+
+
 You can change the stage of the message by click switch button
 If you want, you can customize it by adding multiple EditText to customize topic, ip, username, password and message by user. 
 
