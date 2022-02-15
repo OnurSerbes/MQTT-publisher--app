@@ -1,4 +1,4 @@
-# MQTT-publisher--app
+# MQTT-publisher-app
 This app is created for publishing message to the broker by MQTT protocol.
 
 Libraries: 
