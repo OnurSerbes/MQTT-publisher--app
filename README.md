@@ -3,7 +3,7 @@ This app is created for publishing message to the broker by MQTT protocol.
 
 Libraries: 
 
-You can find the documentation down below
+You can find the documentation link down below
 
 Paho Android Service - MQTT Client Library Encyclopedia
 
